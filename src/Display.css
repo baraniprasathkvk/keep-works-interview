@@ -1,0 +1,10 @@
+.display {
+    display: flex;
+    flex: 1;
+    height: 5em;
+    background-color: #fff;
+    border: 1px solid #000;
+    justify-content: flex-end; 
+    align-items: center;
+    font-size: 1.3em;
+}
